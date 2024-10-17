@@ -20,3 +20,6 @@ This repository contains a Python-based automation script for testing the SauceD
 3. Run the script using: python seleniumpy.py
 
 ## Demo Video
+**Watch this demo video to see the automation testing of saucedemo.com using Selenium and Python in action!**
+
+[![Demo video](https://img.youtube.com/vi/pPEW-zlquLM/0.jpg)](https://youtu.be/pPEW-zlquLM)
