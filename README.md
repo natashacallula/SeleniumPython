@@ -1,11 +1,22 @@
-**Script automation testing for saucedemo website using selenium python.**
-https://www.saucedemo.com/
+# Selenium Automation for SauceDemo
 
-**Feature:**
-- Success login account
-- Failed login account
-- Add product to cart
-- Remove product form cart
-- Success logout account
+This repository contains a Python-based automation script for testing the SauceDemo website using Selenium.
 
-  -----> If You want to run this code, You need to install a text editor, Selenium driver, and Python on your PC. <-----
+## Features
+- Success Login Account
+- Failed Login Account
+- Add Product to Cart
+- Remove Product from Cart
+- Success Logout Account
+
+## Prerequisites
+- Install a text editor (e.g., VS Code)
+- Install Python on your PC
+- Install Selenium driver using the command: pip install selenium webdriver-manager
+  
+## How to Run
+1. Clone this repository.
+2. Open the project in your text editor.
+3. Run the script using: python seleniumpy.py
+
+## Demo Video
